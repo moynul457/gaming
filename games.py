@@ -38,7 +38,7 @@ def logo():
 	os.system("clear")
 	print("\033[92m")
 	logopsb(" _____ ____                           \n|_   _/ ___| __ _ _ __ ___   ___  ___ \n  | || |  _ / _` | '_ ` _ \ / _ \/ __|\n  | || |_| | (_| | | | | | |  __/\__ \ \n  |_| \____|\__,_|_| |_| |_|\___||___/\n                                      ")
-	logopsb("			A Product Of ToxicNoob")
+	logopsb(" Real code 		")
 	time.sleep(0.5)
 	print
 	logopsb("\033[34m\n|****************************************************| \n|\033[3m Author   : DarkSlad3                               \033[0;34m|\n|\033[3m Tool     : Termux Games                            \033[0;34m|\n|\033[3m Version  : 1.0                                     \033[0;34m|\n|\033[3m Link     : https://www.github.com/Toxic-Noob/	     \033[0;34m|\n|\033[3m Coded By : DarkSlad3        		     	     \033[0;34m|\n******************************************************")
