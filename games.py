@@ -41,7 +41,7 @@ def logo():
 	logopsb(" Real code 		")
 	time.sleep(0.5)
 	print
-	logopsb("\033[34m\n|****************************************************| \n|\033[3m Author   : DarkSlad3                               \033[0;34m|\n|\033[3m Tool     : Termux Games                            \033[0;34m|\n|\033[3m Version  : 1.0                                     \033[0;34m|\n|\033[3m Link     : https://www.github.com/Toxic-Noob/	     \033[0;34m|\n|\033[3m Coded By : DarkSlad3        		     	     \033[0;34m|\n******************************************************")
+	logopsb("\033[34m\n|****************************************************| \n|\033[3m Code   : DarkSlad3                               \033[0;34m|\n|\033[3m modified      : Moynul Hassan                   \033[0;34m|\n|\033[3m Version  : 1.0                                     \033[0;34m|\n|\033[3m Link     : https://www.github.com/moynul457/	     \033[0;34m|\n|\033[3m YouTube  hunter Moynul     		     	     \033[0;34m|\n******************************************************")
 	print("\033[3;92m")
 	time.sleep(0.6)
 
