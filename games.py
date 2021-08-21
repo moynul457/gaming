@@ -37,7 +37,7 @@ def logopsb(z):
 def logo():
 	os.system("clear")
 	print("\033[92m")
-	logopsb(" 
+	logo(" 
 
 ██╗░░██╗██╗░░░██╗███╗░░██╗████████╗███████╗
 
